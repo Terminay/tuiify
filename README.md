@@ -104,17 +104,6 @@ python -m build
 
 The package supports Python 3.9 and newer. CI runs tests and builds on pull requests and pushes to `main`.
 
-## Publishing
-
-Publishing is triggered by pushing a version tag beginning with `v`:
-
-```bash
-git tag v0.1.0
-git push origin v0.1.0
-```
-
-The publish workflow builds the wheel and source distribution, creates a GitHub release with generated notes, attaches the distributions to that release, and publishes them to PyPI. Configure a repository or `pypi` environment secret named `PYPI_TOKEN` before pushing a tag.
-
-The workflow uses the tag for the release name. Keep the tag version aligned with the version in `pyproject.toml`.
+## Contributing & Security
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for the development workflow and [SECURITY.md](SECURITY.md) for private vulnerability reports.
