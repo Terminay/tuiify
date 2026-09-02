@@ -1,0 +1,34 @@
+name: Bug report
+description: Report a reproducible problem with tuiify
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Describe the behavior you expected and what happened instead.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Reproduction
+      description: Include a minimal function and the command used.
+      render: python
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: tuiify version
+      placeholder: 0.1.0
+    validations:
+      required: true
+  - type: input
+    id: python
+    attributes:
+      label: Python version
+      placeholder: 3.12
+    validations:
+      required: true
