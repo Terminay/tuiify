@@ -1,13 +1,19 @@
+<div align="center">
+
 # tuiify
 
-[![CI](../../actions/workflows/ci.yml/badge.svg)](../../actions/workflows/ci.yml)
-[![Publish](../../actions/workflows/publish.yml/badge.svg)](../../actions/workflows/publish.yml)
-[![PyPI version](https://img.shields.io/pypi/v/tuiify)](https://pypi.org/project/tuiify/)
-[![Python versions](https://img.shields.io/pypi/pyversions/tuiify)](https://pypi.org/project/tuiify/)
-[![Downloads](https://img.shields.io/pypi/dm/tuiify)](https://pypi.org/project/tuiify/)
-[![License](https://img.shields.io/pypi/l/tuiify)](https://pypi.org/project/tuiify/)
+</div>
 
-Turn typed Python functions into full-screen terminal forms.
+<p align="center">
+  <a href="https://github.com/terminay/tuiify/actions/workflows/ci.yml"><img src="https://github.com/terminay/tuiify/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="https://github.com/terminay/tuiify/actions/workflows/publish.yml"><img src="https://github.com/terminay/tuiify/actions/workflows/publish.yml/badge.svg" alt="Publish"></a>
+  <a href="https://pypi.org/project/tuiify/"><img src="https://img.shields.io/pypi/v/tuiify" alt="PyPI version"></a>
+  <a href="https://pypi.org/project/tuiify/"><img src="https://img.shields.io/pypi/pyversions/tuiify" alt="Python versions"></a>
+  <a href="https://pypi.org/project/tuiify/"><img src="https://img.shields.io/pypi/dm/tuiify" alt="Downloads"></a>
+  <a href="https://pypi.org/project/tuiify/"><img src="https://img.shields.io/pypi/l/tuiify" alt="License"></a>
+</p>
+
+Turn typed Python functions into full-screen terminal user interfaces.
 
 `tuiify` generates a [Textual](https://textual.textualize.io/) interface from a function's signature and docstring. Add one decorator, call the function with no arguments, and get a form with sensible widgets, defaults, validation, and result handling.
 
