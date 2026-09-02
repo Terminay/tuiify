@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="tuiify-logo.png" width=100 height=100>
+
 # tuiify
 
 </div>
