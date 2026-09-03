@@ -2,6 +2,8 @@
 
 <img src="tuiify-logo.png" width=150 height=150>
 
+![PyPI Downloads](https://static.pepy.tech/personalized-badge/tuiify?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)
+
 # tuiify
 
 </div>
@@ -10,10 +12,11 @@
   <a href="https://github.com/terminay/tuiify/actions/workflows/ci.yml"><img src="https://github.com/terminay/tuiify/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <a href="https://github.com/terminay/tuiify/actions/workflows/publish.yml"><img src="https://github.com/terminay/tuiify/actions/workflows/publish.yml/badge.svg" alt="Publish"></a>
   <a href="https://pypi.org/project/tuiify/"><img src="https://img.shields.io/pypi/v/tuiify" alt="PyPI version"></a>
-  <a href="https://pypi.org/project/tuiify/"><img src="https://img.shields.io/pypi/pyversions/tuiify" alt="Python versions"></a>
-  <a href="https://pypi.org/project/tuiify/"><img src="https://img.shields.io/pypi/dm/tuiify" alt="Downloads"></a>
-  <a href="https://pypi.org/project/tuiify/"><img src="https://img.shields.io/pypi/l/tuiify" alt="License"></a>
+  <a href="https://pypi.org/project/tuiify/"><img src="https://img.shields.io/pypi/dw/tuiify" alt="Downloads"></a>
+  <a href="https://pypi.org/project/tuiify/"><img src="https://img.shields.io/github/license/Terminay/tuiify" alt="License"></a>
 </p>
+
+
 
 Turn typed Python functions into full-screen terminal user interfaces.
 
