@@ -12,7 +12,6 @@
   <a href="https://github.com/terminay/tuiify/actions/workflows/ci.yml"><img src="https://github.com/terminay/tuiify/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <a href="https://github.com/terminay/tuiify/actions/workflows/publish.yml"><img src="https://github.com/terminay/tuiify/actions/workflows/publish.yml/badge.svg" alt="Publish"></a>
   <a href="https://pypi.org/project/tuiify/"><img src="https://img.shields.io/pypi/v/tuiify" alt="PyPI version"></a>
-  <a href="https://pypi.org/project/tuiify/"><img src="https://img.shields.io/pypi/dw/tuiify" alt="Downloads"></a>
   <a href="https://pypi.org/project/tuiify/"><img src="https://img.shields.io/github/license/Terminay/tuiify" alt="License"></a>
 </p>
 
