@@ -3,6 +3,7 @@
 <img src="tuiify-logo.png" width=150 height=150>
 
 ![PyPI Downloads](https://static.pepy.tech/personalized-badge/tuiify?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)
+[![Docs](https://img.shields.io/badge/documentation-317ae6?logo=readme&logoColor=yellow)](https://tuiify.readme.io/)
 
 # tuiify
 
